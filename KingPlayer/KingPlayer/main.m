@@ -1,6 +1,6 @@
 //
 //  main.m
-//  BookMusicMoviePlayer
+//  KingPlayer
 //
 //  Created by Yan on 2017/6/24.
 //  Copyright © 2017年 YY. All rights reserved.

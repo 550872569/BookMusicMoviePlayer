@@ -1,6 +1,6 @@
 //
-//  BookMusicMoviePlayerTests.m
-//  BookMusicMoviePlayerTests
+//  KingPlayerTests.m
+//  KingPlayerTests
 //
 //  Created by Yan on 2017/6/24.
 //  Copyright © 2017年 YY. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface BookMusicMoviePlayerTests : XCTestCase
+@interface KingPlayerTests : XCTestCase
 
 @end
 
-@implementation BookMusicMoviePlayerTests
+@implementation KingPlayerTests
 
 - (void)setUp {
     [super setUp];

@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  BookMusicMoviePlayer
+//  KingPlayer
 //
 //  Created by Yan on 2017/6/24.
 //  Copyright © 2017年 YY. All rights reserved.
@@ -16,13 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-}
-
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    self.view.backgroundColor = [UIColor whiteColor];
 }
 
 
